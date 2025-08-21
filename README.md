@@ -38,7 +38,7 @@ Circuit Schematic | Waveform Output
 
 2. Physical Prototype
 I then breadboarded the circuit (try out both transistors)
-<img src="https://github.com/user-attachments/assets/fa91a2cc-07b0-4403-a215-742f3d88959" height=300 />
+<img src="https://github.com/user-attachments/assets/7bff8e32-b138-4808-b765-b5207097ba2b" height="300" />
 
 ## KiCad Schematic
 (next steps are to make the KiCad schematic and manufacture the PCB)
