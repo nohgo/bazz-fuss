@@ -1,0 +1,41 @@
+# --- KiCad Ignores ---
+
+# Local User Settings (Zoom level, active layer, etc.)
+*.kicad_prl
+
+# Backups and Autosaves
+*-bak
+*.kicad_pcb-bak
+*.sch-bak
+_autosave-*
+
+# Footprint Library Cache
+fp-info-cache
+
+# Lock files
+*.lck
+
+# --- Manufacturing / Build Artifacts ---
+*.gbr
+*.drl
+*.pos
+*.rpt
+*.step
+*.stp
+gerber/
+gerbers/
+
+# --- LTSpice Ignores ---
+
+# Simulation Waveform Data
+*.raw
+*.fft
+
+# Logs and Generated Netlists
+*.log
+*.net
+*.op.raw
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
