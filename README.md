@@ -1,7 +1,7 @@
 # Bazz Fuss Guitar Pedal
 
 ## Project Overview
-This is a classic bazz fuss circuit modeled in LTSpice and built on a solderless breadboard (KiCad schematic and PCB in progress).
+This is a classic bazz fuss circuit modeled in LTSpice, built on a solderless breadboard, and modeled in LTSpice.
 
 ## Demo
 <img src="https://github.com/user-attachments/assets/aad28ed0-28ab-46fc-86cb-c2a7f88469d7" height=500 />
@@ -37,8 +37,15 @@ Circuit Schematic | Waveform Output
 
 
 2. Physical Prototype
+
 I then breadboarded the circuit (try out both transistors)
+
 <img src="https://github.com/user-attachments/assets/7bff8e32-b138-4808-b765-b5207097ba2b" height="300" />
 
 ## KiCad Schematic
-(next steps are to make the KiCad schematic and manufacture the PCB)
+Finally, I took the design and designed a PCB for it in KiCad. I included the schematic, layout, and 3D model below.
+<img width="624" height="237" alt="Screenshot 2025-12-30 at 2 48 29 PM" src="https://github.com/user-attachments/assets/a14151ba-95ce-419c-8e11-bc8e7b1cc565" />
+3D Representation | Layout
+--------| --------
+<img width="607" height="347" alt="Screenshot 2025-12-30 at 2 39 00 PM" src="https://github.com/user-attachments/assets/94fee836-a1c2-47ec-9f8d-00f4f6d2a96d" /> | <img width="607" height="347" alt="Screenshot 2025-12-30 at 2 47 13 PM" src="https://github.com/user-attachments/assets/9fcec560-6790-4e7e-8983-5e7db083f208" />
+
