@@ -1,7 +1,7 @@
 # Bazz Fuss Guitar Pedal
 
 ## Project Overview
-This is a classic bazz fuss circuit modeled in LTSpice, built on a solderless breadboard, and modeled in LTSpice.
+This is a classic bazz fuss circuit modeled in LTSpice, built on a solderless breadboard, and designed in KiCad.
 
 ## Demo
 <img src="https://github.com/user-attachments/assets/aad28ed0-28ab-46fc-86cb-c2a7f88469d7" height=500 />
